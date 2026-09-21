@@ -1,16 +1,36 @@
-# rest_api
+# REST API Flutter Project 🚀
 
-A new Flutter project.
+A Flutter project demonstrating how to integrate and work with REST APIs in a Flutter application.
 
-## Getting Started
+## 📌 About
 
-This project is a starting point for a Flutter application.
+This project focuses on consuming REST APIs, handling HTTP requests, parsing JSON responses, and displaying dynamic API data in the Flutter UI.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- REST API integration
+- HTTP GET requests
+- JSON response parsing
+- API data models
+- Dynamic data rendering
+- Error handling
+- Loading states
+- Clean and structured Flutter code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- REST API
+- HTTP
+- JSON
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── services/
+├── screens/
+├── widgets/
+└── main.dart
